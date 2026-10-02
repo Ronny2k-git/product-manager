@@ -1,48 +1,60 @@
-# Inventory Manager
+# 📦 Inventory Manager
 
-A simple web application where users can create and _manage products_, track inventory updates, and organize items by category. All data is stored locally in the browser using Local Storage.
+A simple web application where users can **create and manage products**, track inventory updates, and organize items by category.
 
-## Features
+All data is stored locally in the browser using **Local Storage**.
 
-- Create new products
-- Edit and delete products
-- Organize products by category
-- Store product name, description, creation date, and image
-- Data persistence using Local Storage
-- Form validation with Zod
+## ✨ Features
 
-## Technologies
+* Create new products
+* Edit and delete products
+* Organize products by category
+* Store product name, description, creation date, and image
+* Data persistence using Local Storage
+* Form validation with Zod
 
-- Next.js
-- React
-- Tailwind CSS
-- CSS
-- Zod
-- Local Storage
-- Vercel (Deployment)
+## 🛠️ Technologies
 
-## Getting Started
+* Next.js
+* React
+* Tailwind CSS
+* CSS
+* Zod
+* Local Storage
+* Vercel
 
-### Clone the repository:
+## 🚀 Getting Started
 
+### Clone the repository
+
+```bash
 git clone <Ronny2k-git/product-manager>
+```
 
-### Install the dependencies:
+### Install dependencies
 
+```bash
 npm install
+```
 
-### Run the development server:
+### Run the development server
 
+```bash
 npm run dev
+```
 
-### Open your browser and visit:
+### Open the application
 
+Visit:
+
+```text
 http://localhost:3000
+```
 
-## Deployment
+## 🌐 Deployment
 
-The application is deployed on Vercel.
+The application is deployed on **Vercel**.
 
-### License
+## 📄 License
 
-This project is available for learning and personal use.
+This project is available for **learning and personal use**.
